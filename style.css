@@ -1,0 +1,45 @@
+/* Custom CSS styles */
+
+body {
+    
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e9e7e7; /* Set a background color */
+}
+
+.container {
+    max-height: 100vh; /* Set a maximum height of 25% of the viewport height */
+}
+
+.input-fields {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+/* Bootstrap CSS classes */
+
+.mt-4 {
+    margin-top: 1.5rem !important;
+}
+
+.form-control {
+    width: 100%;
+}
+
+.btn {
+    width: 100%;
+}
+
+.text-center {
+    text-align: center;
+}
+
